@@ -1,4 +1,4 @@
-- This is a pretty bad account for people. Why are you here?
+- Why are you looking at my github?! Get out!
 
 <!---
 YeaProbably/YeaProbably is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
